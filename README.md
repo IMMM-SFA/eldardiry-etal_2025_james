@@ -1,4 +1,4 @@
-<!-- [![DOI](https://zenodo.org/badge/todo.svg)](https://zenodo.org/doi/todo) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15066432.svg)](https://zenodo.org/doi/10.5281/zenodo.15066432)
 
 # eldardiry-etal\_2025\_james
 
